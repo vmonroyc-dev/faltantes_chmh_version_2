@@ -11,12 +11,6 @@ export const SERVICES = [
   "SETIN",
   "Urgencias Pediátricas",
   "Oncología Pediátrica",
-  "Cirugía Pediátrica",
-  "Terapia Intermedia",
-  "Inhaloterapia",
-  "Anestesiología",
-  "Laboratorio",
-  "Rayos X"
 ];
 
 export const ADMIN_PASSWORD = "faltantes2026";
